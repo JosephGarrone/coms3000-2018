@@ -11,7 +11,6 @@
 ```bash
 <repo>
 |-- python
-    |-- attack.py (Attempts to crack the passwords in target.json)
     |-- target_processor.py (Converts raw into targets.json)
 |-- target
     |-- processed
@@ -20,3 +19,13 @@
         |-- passwd9 (Raw user info)
         |-- shadow9 (Raw password info)
 ```
+
+## Running
+
+1. Open a command prompt in `<repo>\bin\john-the-ripper\windows\`
+2. Run `john.exe ..\..\..\targets\raw\shadow`
+3. Profit?
+
+## Configuration
+
+Modify `<repo>\bin\john-the-ripper\windows\john.conf` (To add rules etc) and `<repo>\bin\john-the-ripper\windows\password.lst` (To add password guesses)
