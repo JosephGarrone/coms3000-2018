@@ -1,6 +1,12 @@
 # COMS3000 2018 - Assignment 3
 
-## Folders
+>TODO: About the project
+
+## Requirements
+
+- Python3
+
+## Folder Overview
 
 ```bash
 <repo>
