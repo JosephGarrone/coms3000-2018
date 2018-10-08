@@ -11,6 +11,7 @@
 ```bash
 <repo>
 |-- python
+    |-- attack.py (Attempts to crack the passwords in target.json)
     |-- target_processor.py (Converts raw into targets.json)
 |-- target
     |-- processed
