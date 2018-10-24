@@ -3738,3 +3738,203 @@
 0:00:15:46 + Cracked s4370752
 0:00:20:15 - Rule #4: '<* >2 !?A l p' accepted as '<*>2!?Alp'
 0:00:23:52 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 177 password hashes with 177 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29244 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29244 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3555 lines and required 14220 bytes for index.
+0:00:00:00 - suppressed 1 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 22222 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:31 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 177 password hashes with 177 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29244 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29244 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3555 lines and required 14220 bytes for index.
+0:00:00:00 - suppressed 1 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 2622 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:10 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 177 password hashes with 177 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29244 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29244 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3555 lines and required 14220 bytes for index.
+0:00:00:00 - suppressed 1 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 822 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:21 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29256 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29256 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3556 lines and required 14224 bytes for index.
+0:00:00:00 - suppressed 1 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 532 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:12 + Cracked duffer
+0:00:02:28 + Cracked duffer2
+0:00:04:10 + Cracked s4397013
+0:00:05:42 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 193 password hashes with 193 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29261 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29261 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3556 lines and required 14224 bytes for index.
+0:00:00:00 - suppressed 1 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 74 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:01:21 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 193 password hashes with 193 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29282 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29282 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3557 lines and required 14228 bytes for index.
+0:00:00:00 - suppressed 2 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 75 preprocessed word mangling rules
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 193 password hashes with 193 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29282 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29282 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3557 lines and required 14228 bytes for index.
+0:00:00:00 - suppressed 2 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 75 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:01 + Cracked s4417496
+0:00:00:03 + Cracked s4541010
+0:00:00:03 + Cracked s4384569
+0:00:00:04 + Cracked s4354619
+0:00:00:04 + Cracked s4488954
+0:00:00:05 + Cracked s4495817
+0:00:00:06 + Cracked s4500036
+0:00:00:07 + Cracked s4315128
+0:00:00:10 + Cracked s4496087
+0:00:00:10 + Cracked s4353334
+0:00:00:11 + Cracked s4490071
+0:00:00:11 + Cracked s4435400
+0:00:00:14 + Cracked s4495508
+0:00:00:15 + Cracked s4528082
+0:00:06:41 - Rule #2: 'T1' accepted
+0:00:06:53 + Cracked s4511723
+0:00:07:27 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 178 password hashes with 178 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29282 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29282 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3557 lines and required 14228 bytes for index.
+0:00:00:00 - suppressed 2 duplicate lines and/or comments from wordlist.
+0:00:00:00 ! Invalid rule at line 3137: Unknown command
+0:00:00:00 Terminating on error, rules.c:2092
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 178 password hashes with 178 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29282 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29282 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3557 lines and required 14228 bytes for index.
+0:00:00:00 - suppressed 2 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 185 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:01:08 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 196 password hashes with 196 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 178 password hashes with 178 different salts
+0:00:00:00 Cost 1 (iteration count) is 5000 for all loaded hashes
+0:00:00:00 - Hash type: sha512crypt, crypt(3) $6$ (lengths up to 125)
+0:00:00:00 - Algorithm: SHA512 32/32 OpenSSL
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: COMS3000
+0:00:00:00 - Wordlist file: ..\..\..\password-lists\password.lst
+0:00:00:00 - memory mapping wordlist (29282 bytes)
+0:00:00:00 - loading wordfile ..\..\..\password-lists\password.lst into memory (29282 bytes, max_size=5000000)
+0:00:00:00 - wordfile had 3557 lines and required 14228 bytes for index.
+0:00:00:00 - suppressed 2 duplicate lines and/or comments from wordlist.
+0:00:00:00 - 185 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:06:28 - Rule #2: 'T0' accepted
+0:00:06:29 + Cracked duffer3
+0:00:06:32 + Cracked duffer6
+0:00:08:20 + Cracked s4370752
+0:00:12:53 - Rule #3: 'C' accepted
+0:00:14:02 Session aborted
